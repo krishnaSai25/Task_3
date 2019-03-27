@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.List;
-public class TestClass {
+public class Bulbs {
 static long total = 0;
 public static void main(String[] args)
 {
